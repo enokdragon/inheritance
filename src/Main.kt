@@ -1,3 +1,9 @@
+/**
+ * @author Enok Dragon
+ * @date 3/5/2024
+ * Main Function
+ * Uses Customer,Commercial, and Residential Classes
+ */
 import kotlin.system.exitProcess
 
 fun main() {
