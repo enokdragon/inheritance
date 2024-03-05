@@ -3,6 +3,7 @@
  * Class Customer
  * @param
  * customer name, customer address, customer phone number, square footage of yard
+ *functions: display data, calculate quote
  * 3/5/2024
  */
 open class Customer(customerName: String,
