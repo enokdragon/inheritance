@@ -1,7 +1,16 @@
 //+propertyName: String
 //+commercialRate: $5/1000sqft
 //+multiProperty: Boolean
-
+/**
+ * @author Enok Dragon
+ * Class Customer
+ * @param
+ * customer name, customer address, customer phone number, square footage of yard
+ * property name, multiproperty(boolean)
+ * display data function
+ * calculate quote function
+ * 3/5/2024
+ */
 open class Commercial(propertyName: String,
                  customerName: String,
                  customerAddress: String,
