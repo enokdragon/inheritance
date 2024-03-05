@@ -1,3 +1,13 @@
+/**
+ * @author Enok Dragon
+ * Class Customer
+ * @param
+ * customer name, customer address, customer phone number, square footage of yard
+ * property name, multiproperty(boolean)
+ * display data function
+ * calculate quote function
+ * 3/5/2024
+ */
 import kotlin.jvm.internal.Ref.BooleanRef
 
 class Residential(senior: Boolean,
